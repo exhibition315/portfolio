@@ -1,0 +1,147 @@
+{
+  "name": "Shu-Han (Alvin) Wang",
+  "title": "Senior Front-End Engineer",
+  "location": "Taipei, Taiwan",
+  "email": "porschegt315@hotmail.com",
+  "phone": "+886 958-232-108",
+  "github": "https://github.com/exhibition315",
+  "linkedin": "https://www.linkedin.com/in/alvin-wang-14694293/",
+  "about": "Front-End Engineer specializing in React, React Native, and Next.js, with a strong track record in delivering secure and scalable FinTech solutions. Experienced in leading cross-functional teams, mentoring junior developers, and promoting best practices in CI/CD, testing, and architectural design. Passionate about collaboration, code quality, and continuous learning — in both tech and life.",
+  "skills": [
+    {
+      "category": "Core Technologies",
+      "list": [
+        "React",
+        "Next.js",
+        "React Native",
+        "Redux (Saga/Thunk)",
+        "Styled-Components"
+      ]
+    },
+    {
+      "category": "Testing",
+      "list": [
+        "Vitest",
+        "Jest",
+        "React Testing Library",
+        "redux-saga-test-plan"
+      ]
+    },
+    {
+      "category": "CI/CD & DevOps",
+      "list": ["Jenkins", "Webpack", "Firebase", "Nginx", "ELK Stack"]
+    },
+    {
+      "category": "Real-Time & Backend",
+      "list": ["Node.js", "WebSocket", "PubNub", "RESTful API"]
+    },
+    {
+      "category": "Legacy & System Development",
+      "list": ["C#", "C++", "UWP", "C++/CX"]
+    },
+    {
+      "category": "Others",
+      "list": ["Firebase Analytics", "OneSignal", "Fastlane", "Agile / Scrum"]
+    }
+  ],
+  "experience": [
+    {
+      "time": "Feb 2023 – Present",
+      "title": "LINE Bank – Senior Front-End Development Manager",
+      "details": [
+        "Leading development of secure FinTech applications using React, Next.js, Redux (Saga), Styled-Components, and Webpack.",
+        "Ensured high code quality through Vitest, Jest, React Testing Library, and redux-saga-test-plan.",
+        "Owned and maintained the LINE Bank enterprise website.",
+        "Acted as task force leader, collaborating with designers, PMs, and cross-functional teams, and mentoring junior engineers.",
+        "Worked closely with LINE Taiwan and Korea to deliver localized banking services."
+      ],
+      "links": [
+        "https://www.linebank.com.tw/",
+        "https://enterprise.linebank.com.tw/"
+      ]
+    },
+    {
+      "time": "Sep 2020 – Feb 2023",
+      "title": "LINE Bank – Front-End Development Manager",
+      "details": [
+        "Developed core banking features (deposit, transfer, debit card, insurance) with React, Hooks, Redux (Saga), and Webpack.",
+        "Integrated Firebase for behavior tracking and analytics.",
+        "Mentored junior developers and drove architectural improvements in the web team.",
+        "Collaborated cross-regionally with LINE Taiwan and Korea."
+      ],
+      "links": ["https://www.linebank.com.tw/"]
+    },
+    {
+      "time": "Apr 2018 – Sep 2020",
+      "title": "TripPlus – Front-End & React Native Engineer",
+      "details": [
+        "TripPlus iOS App: Built and maintained app with React Native, Redux Thunk, OneSignal, PubNub, and Fastlane.",
+        "Implemented article sharing/editing, credit card search, flight search, chatbot, and push notification.",
+        "TripPlus Web: Built web platform using React, Redux Thunk, D3.js, Draft.js.",
+        "Delivered features like article management, mileage storefront, and credit card comparison.",
+        "Focused on RWD, performance, and brand-aligned UI/UX."
+      ],
+      "links": [
+        "https://apps.apple.com/tw/app/tripplus/id1424011168",
+        "https://www.tripplus.cc/share"
+      ]
+    },
+    {
+      "time": "Jul 2015 – May 2018",
+      "title": "Mitake – Software Engineer",
+      "details": [
+        "Developed real-time stock trading platform using React, Redux-Saga, and WebSocket.",
+        "Built behavior tracking dashboards and HR systems using React, Nginx, Bootstrap, and HLS.",
+        "Created Windows 10 UWP stock market app with C#, XAML, Caliburn.Micro, integrating custom socket protocols."
+      ],
+      "links": [
+        "https://www.mitake.com.tw/",
+        "https://apps.microsoft.com/store/detail/%E8%A1%8C%E5%8B%95%E8%82%A1%E5%B8%82/9WZDNCRDXCZ1?hl=zh-tw&gl=TW"
+      ]
+    },
+    {
+      "time": "Oct 2011 – Jun 2015",
+      "title": "Acer Inc. – Senior Project Engineer",
+      "details": [
+        "Led Android projects including intelligent agents and location engines using Java.",
+        "Developed Windows Store apps (Acer Cloud Music, MemoryBinder) with C#, C++.",
+        "Built desktop analytics and auto-test tools with C++, C#, ADK, WPF.",
+        "Participated in Scrum process and delivered across global product lines."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "LINE Bank Enterprise",
+      "desc": "Owned and maintained the enterprise banking site. Led front-end architecture, collaborated with designers/PMs/cross-functional teams.",
+      "demo": "https://enterprise.linebank.com.tw/"
+    },
+        {
+      "name": "LINE Bank",
+      "desc": "Core development member of LINE Bank, delivering secure FinTech applications. Focused on React, Redux (Saga), Styled-Components, and Webpack.",
+      "demo": "https://www.linebank.com.tw/"
+    },
+    {
+      "name": "TripPlus App (iOS)",
+      "desc": "iOS app for credit card search, flight search, article sharing, and notifications. Built with React Native, Redux, and modern mobile stack.",
+      "demo": "https://apps.apple.com/tw/app/tripplus/id1424011168"
+    },
+    {
+      "name": "TripPlus Web",
+      "desc": "Web platform with article management, mileage storefront, and credit card comparison. RWD, performance, and brand UI/UX focused.",
+      "demo": "https://www.tripplus.cc/share"
+    },
+    {
+      "name": "Mitake Stock Trading Platform",
+      "desc": "Real-time web trading system and Windows UWP stock market app. Dashboard, HR system, and custom protocol integrations.",
+      "demo": "https://apps.microsoft.com/store/detail/%E8%A1%8C%E5%8B%95%E8%82%A1%E5%B8%82/9WZDNCRDXCZ1?hl=zh-tw&gl=TW"
+    }
+  ],
+  "education": [
+    {
+      "school": "National Taipei University of Technology",
+      "degree": "Master’s Degree in Computer Science & Communication, 2009–2011",
+      "desc": "Thesis: Performance analysis of transmit diversity scheme based on relay-grouping for broadband cooperative communication."
+    }
+  ]
+}

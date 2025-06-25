@@ -6,7 +6,7 @@
   "phone": "+886 958-232-108",
   "github": "https://github.com/exhibition315",
   "linkedin": "https://www.linkedin.com/in/alvin-wang-14694293/",
-  "about": "Front-End Engineer specializing in React, React Native, and Next.js, with a strong track record in delivering secure and scalable FinTech solutions. Experienced in leading cross-functional teams, mentoring junior developers, and promoting best practices in CI/CD, testing, and architectural design. Passionate about collaboration, code quality, and continuous learning — in both tech and life.",
+  "about": "Front-End Engineer specializing in React, React Native, and Next.js, with a strong track record in delivering secure and scalable FinTech solutions. Experienced in leading cross-functional teams, mentoring junior developers, and promoting best practices in CI/CD, testing, and architectural design. Passionate about collaboration, code quality, and continuous learning in both tech and life.",
   "skills": [
     {
       "category": "Core Technologies",
@@ -54,10 +54,6 @@
         "Owned and maintained the LINE Bank enterprise website.",
         "Acted as task force leader, collaborating with designers, PMs, and cross-functional teams, and mentoring junior engineers.",
         "Worked closely with LINE Taiwan and Korea to deliver localized banking services."
-      ],
-      "links": [
-        "https://www.linebank.com.tw/",
-        "https://enterprise.linebank.com.tw/"
       ]
     },
     {
@@ -68,8 +64,7 @@
         "Integrated Firebase for behavior tracking and analytics.",
         "Mentored junior developers and drove architectural improvements in the web team.",
         "Collaborated cross-regionally with LINE Taiwan and Korea."
-      ],
-      "links": ["https://www.linebank.com.tw/"]
+      ]
     },
     {
       "time": "Apr 2018 – Sep 2020",
@@ -77,13 +72,9 @@
       "details": [
         "TripPlus iOS App: Built and maintained app with React Native, Redux Thunk, OneSignal, PubNub, and Fastlane.",
         "Implemented article sharing/editing, credit card search, flight search, chatbot, and push notification.",
-        "TripPlus Web: Built web platform using React, Redux Thunk, D3.js, Draft.js.",
+        "TripPlus Web: Built web platform using React, Redux Thunk, Draft.js.",
         "Delivered features like article management, mileage storefront, and credit card comparison.",
         "Focused on RWD, performance, and brand-aligned UI/UX."
-      ],
-      "links": [
-        "https://apps.apple.com/tw/app/tripplus/id1424011168",
-        "https://www.tripplus.cc/share"
       ]
     },
     {
@@ -92,11 +83,7 @@
       "details": [
         "Developed real-time stock trading platform using React, Redux-Saga, and WebSocket.",
         "Built behavior tracking dashboards and HR systems using React, Nginx, Bootstrap, and HLS.",
-        "Created Windows 10 UWP stock market app with C#, XAML, Caliburn.Micro, integrating custom socket protocols."
-      ],
-      "links": [
-        "https://www.mitake.com.tw/",
-        "https://apps.microsoft.com/store/detail/%E8%A1%8C%E5%8B%95%E8%82%A1%E5%B8%82/9WZDNCRDXCZ1?hl=zh-tw&gl=TW"
+        "Created Windows 10 UWP stock market app with C#, XAML, integrating custom socket protocols."
       ]
     },
     {
@@ -122,12 +109,7 @@
       "demo": "https://www.linebank.com.tw/"
     },
     {
-      "name": "TripPlus App (iOS)",
-      "desc": "iOS app for credit card search, flight search, article sharing, and notifications. Built with React Native, Redux, and modern mobile stack.",
-      "demo": "https://apps.apple.com/tw/app/tripplus/id1424011168"
-    },
-    {
-      "name": "TripPlus Web",
+      "name": "TripPlus",
       "desc": "Web platform with article management, mileage storefront, and credit card comparison. RWD, performance, and brand UI/UX focused.",
       "demo": "https://www.tripplus.cc/share"
     },

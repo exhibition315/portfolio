@@ -4,12 +4,12 @@ const DownloadResume = () => {
   return (
     <a
       href="/Alvin-Resume.pdf"
-      download
+      download="Alvin-Resume.pdf"
       target="_blank"
       rel="noopener noreferrer"
       className={buttonClass}
     >
-      <span>下載 PDF</span>
+      <span>履歷下載</span>
     </a>
   );
 };

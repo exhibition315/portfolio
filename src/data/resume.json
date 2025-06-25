@@ -82,7 +82,7 @@
       "title": "Mitake – Software Engineer",
       "details": [
         "Developed real-time stock trading platform using React, Redux-Saga, and WebSocket.",
-        "Built behavior tracking dashboards and HR systems using React, Nginx, Bootstrap, and HLS.",
+        "Built behavior tracking dashboards and HR systems using React, Nginx, Bootstrap.",
         "Created Windows 10 UWP stock market app with C#, XAML, integrating custom socket protocols."
       ]
     },
@@ -100,7 +100,7 @@
   "projects": [
     {
       "name": "LINE Bank Enterprise",
-      "desc": "Owned and maintained the enterprise banking site. Led front-end architecture, collaborated with designers/PMs/cross-functional teams.",
+      "desc": "Owned and maintained the enterprise banking site. Led front-end architecture, collaborated with designers / PMs / cross-functional teams.",
       "demo": "https://enterprise.linebank.com.tw/"
     },
         {
@@ -115,7 +115,7 @@
     },
     {
       "name": "Mitake Stock Trading Platform",
-      "desc": "Real-time web trading system and Windows UWP stock market app. Dashboard, HR system, and custom protocol integrations.",
+      "desc": "Real-time web trading system and Windows UWP stock market app.",
       "demo": "https://apps.microsoft.com/store/detail/%E8%A1%8C%E5%8B%95%E8%82%A1%E5%B8%82/9WZDNCRDXCZ1?hl=zh-tw&gl=TW"
     }
   ],

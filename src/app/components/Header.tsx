@@ -5,13 +5,13 @@ import { useTheme } from "next-themes";
 import Avatar from "@components/Avatar";
 import DownloadResume from "@components/download";
 import { buttonClass } from "@components/style";
-import { useConsoleEasterEgg } from "@hooks/useConsoleEasterEgg";
+// import { useConsoleEasterEgg } from "@hooks/useConsoleEasterEgg";
 
 const Header = () => {
   const { setTheme, resolvedTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
-  useConsoleEasterEgg();
+  // useConsoleEasterEgg();
 
   useEffect(() => {
     setMounted(true);
